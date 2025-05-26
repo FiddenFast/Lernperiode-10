@@ -20,3 +20,11 @@ In der letzten Lernperiode habe ich mich auf die Module konzentriert. Mein Ziel 
 16.05.2025
 - [x] Erstellen der Subpage für meine Projekte
 - [x] Erstellen der Subpage für Kontakte sowie design weiter ausarbeiten
+
+23.05.2025
+- [x] Erstellen der Subpage "Über mich"
+- [ ] Portrait hinzufügen
+
+30.05.2025
+- [ ] Portrait anpassen
+- [ ] Design und FUnktionen überarbeiten und erweitern
