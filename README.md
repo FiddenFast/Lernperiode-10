@@ -23,8 +23,16 @@ In der letzten Lernperiode habe ich mich auf die Module konzentriert. Mein Ziel 
 
 23.05.2025
 - [x] Erstellen der Subpage "Über mich"
-- [ ] Portrait hinzufügen
+- [x] Portrait hinzufügen
 
 30.05.2025
-- [ ] Portrait anpassen
-- [ ] Design und FUnktionen überarbeiten und erweitern
+- [x] Portrait anpassen
+- [x] Design und FUnktionen überarbeiten und erweitern
+
+06.06.2025
+- [x] Persöhliche Informatione auf "Über mich" Page hinzugefügt
+- [ ] Design minimalister und gleichzeitig funktionaler machen
+
+11.06.2025
+- [ ] Design minimalister und gleichzeitig funktionaler machen
+- [ ] Dark Mode hinzufügen
