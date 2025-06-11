@@ -34,5 +34,5 @@ In der letzten Lernperiode habe ich mich auf die Module konzentriert. Mein Ziel 
 - [ ] Design minimalister und gleichzeitig funktionaler machen
 
 11.06.2025
-- [ ] Design minimalister und gleichzeitig funktionaler machen
+- [ ] Design minimalistischer und gleichzeitig funktionaler machen
 - [ ] Dark Mode hinzufügen
