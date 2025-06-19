@@ -33,6 +33,10 @@ In der letzten Lernperiode habe ich mich auf die Module konzentriert. Mein Ziel 
 - [x] Persöhliche Informatione auf "Über mich" Page hinzugefügt
 - [ ] Design minimalister und gleichzeitig funktionaler machen
 
-11.06.2025
-- [ ] Design minimalistischer und gleichzeitig funktionaler machen
-- [ ] Dark Mode hinzufügen
+13.06.2025
+- [x] Design minimalistischer und gleichzeitig funktionaler machen
+- [x] Dark Mode hinzufügen
+
+20.06.2025
+- [ ] MongoDB
+- [ ] NoSQL
