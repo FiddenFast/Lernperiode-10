@@ -38,5 +38,9 @@ In der letzten Lernperiode habe ich mich auf die Module konzentriert. Mein Ziel 
 - [x] Dark Mode hinzufügen
 
 20.06.2025
-- [ ] MongoDB
-- [ ] NoSQL
+- [x] Modul 254 HZ4
+- [x] Modul 254 HZ5 Teilaufgabe 1
+
+26.06.2025
+- [ ] Modul 254 HZ5
+- [ ] Die Bewerbungswebseite über eigene URL hosten.
